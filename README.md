@@ -1,2 +1,2 @@
-# Risk-Analysis-Bank-Failure
-Analyzing data to predict which bank may fail. 
+# Bank-Failure-Prediction
+ Which banks are most likely to fail in the near future and all other required Analysis
